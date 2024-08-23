@@ -1,0 +1,9 @@
+
+
+no terminal: 
+
+cd C:\Users\Marce\OneDrive\Área de Trabalho\Project - Beauty Products Sales\belezanaweb
+
+ainda no terminal:
+
+scrapy crawl scrapy_bnw
